@@ -1,0 +1,51 @@
+langchain
+python-dotenv
+ipykernel
+langchain_community
+pypdf
+PyPDF2
+bs4  ## to scrape/retrieve the website data
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+lxml
+streamlit
+
+langchain-openai
+chromadb==0.5.3
+sentence-transformers  ## the embedding technique in this libraries is available
+langchain-huggingface
+huggingface_hub     # API Call
+
+faiss-cpu
+langchain-chroma
+
+langchain_groq
+langchain_core
+
+fastapi
+uvicorn
+citation-langserver
+langserve[all]
+pydantic==1.10.13
+duckduckgo-search
+
+mysql-connector-python
+SQLAlchemy
+
+validators==0.28.1  # help to validate the URL
+youtube_transcript_api  # can read the transcript for the video
+pytube
+unstructured
+nltk
+
+cassio  # the engine powering the Astra DB integration in LangChain
+datasets
+tiktoken
+
+gradio  # front end and engine which will be interacting with ollama
+Docker
+
+boto3   # make Python can be intergrated with AWS service
+awscli  # configure AWS service (IAM admination)
